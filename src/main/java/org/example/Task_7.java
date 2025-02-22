@@ -9,14 +9,3 @@ public class Task_7 {
         return number < 0;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
